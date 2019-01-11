@@ -25,7 +25,7 @@ This list assumes that you have already googled your problem, and that you will 
 5. Draw a visual representation of what your code is doing.
  In fact, go head and make diagramming, or modeling, a part of your planning process.
 (If you don’ draw good, don’t worry about it—odds are, at any given moment you're "in good company")
-6. Grab your favorite rubber duck—whether it’s a desktop decoration, pet, or saintly patient friend.
+6. Grab your favorite rubber duck—whether it’s a desktop decoration, pet, or saintly patient friend. Go through the code line-by-line and clearly explain what it is doing. Sometimes, you will hear yourself say the solution to your own problem before you even realize it.
 Obviously, the quality of your rubber duck decoding session will correlate with the level of consciousness of your audience (friend > pet), but we make do; we make do.
 7. Step away
     * Look at something other than your computer screen, preferably nothing, to allow your brain space to expand out of the myopic state of mind you’ll inevitably find yourself experiencing when you code.
