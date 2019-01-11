@@ -24,13 +24,15 @@ This list assumes that you have already googled your problem, and that you will 
 4. “…reduce the problem to the point where you know how to solve it and write the solution. Then expand the problem slightly and rewrite the solution to match, and keep going until you are back where you started.
    Reduce the problem to something simpler. Instead of the third-highest number, what about finding the highest overall? Still too tough? What about finding the largest of just three numbers? Or the larger of two?"
 5. Draw a visual representation of what your code is doing.
- In fact, go head and make diagramming, or modeling, should already be a part of your planning process.
+ In fact, go head and make diagramming, or modeling, a part of your planning process.
 (If you don’ draw good, don’t worry about it—odds are, at any given moment you're "in good company")
 6. Grab your favorite rubber duck—whether it’s a desktop decoration, pet, or saintly patient friend.
-Obviously, the quality of your rubber duck decoding session will correlate with the level of consciousness of your audience, but we make do; we make do.
+Obviously, the quality of your rubber duck decoding session will correlate with the level of consciousness of your audience (friend > pet), but we make do; we make do.
 7. Step away
     * Look at something other than your computer screen, preferably nothing, to allow your brain space to expand out of the myopic state of mind you’ll inevitably find yourself experiencing when you code.
     * Most people think programming looks like spending hours at a time staring at your computer’s screen, hopefully with your fingers moving on the keyboard. What effective programming actually looks like is screen time for a while, getting up and stretching or taking a walk, repeat.
 8. Open a new tab or window in your text editor or development environment, and start over completely.
-    * This trick is especially helpful for coders battling ADD, experiencing ego death while looking at a wall of text.
-    * I add it as a last resort, because it can only be applied to small problems and takes a bit longer to execute than the above tricks.
+    * This trick is especially helpful for coders battling ADD, which can make reviewing your code feel like experiencing ego death while looking at a wall of text.
+    * I add it this step as a last resort, because it can only be applied to small problems and takes a bit longer to execute than the above tricks.
+
+  Good luck out there, and don't be afraid to reach out to your colleagues before referencing this list—they like you; really!
