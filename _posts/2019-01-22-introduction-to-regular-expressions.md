@@ -4,3 +4,18 @@ title:  "Introduction to Regular Expressions"
 date:   2019-01-22 18:14:08 -0500
 categories: programming advice
 ---
+  As a budding new software engineer, you may have heard the term ‘regular expressions’, or regexps (read ‘rej-exps’) thrown around. If you’re like me, then the term merely registered as something technical and advanced-sounding—maybe even powerful, depending on the context it was heard in—and left it to the seeming lottery of new synaptic connections we call memory. Well, let this opening serve as a roll call to bring what regexp neurons you may already have to attention as we attempt to graft in some nuance to your working definition.
+
+  First, some background:
+
+  If you already have some idea about what regular expressions do, you may be tempted to think, “That’s simple. How much history can there be behind a tool as mundane as regular expressions?” Not so, friend. Not so. Let me tell you: we are standing on the shoulders of giants. In fact, you might be surprised to learn that the academic heritage of regular expressions is shared by the likes of neural networks.
+
+  In 1941, a fateful meeting occurred at the University of Illinois at Chicago. Warren Sturgis McCulloch moved from his position in the Laboratory of Neurophysiology at Yale to UIC’s Psychology Department. Through colleagues, McCulloch met a sensational prodigy named Walter Pitts, who, at only 18 years old, had already worked with pioneers in logic and mathematics—including the founder of mathematical biophysics, Nicholas Rashevsky.
+
+  Six years earlier, Pitts had been invited by none other than philosopher and mathematician Bertand Russell to study with him at Cambridge University after Russell had received a letter from Pitts pointing out inconsistenies in the former’s Prinicpia Mathematica. Three years later, at 15, he visited the UIC campus to hear Russell lecture, and never went home.
+  McCulloch was inspired by Pitts, who had been homeless since arriving in Chicago, and invited the young genius to live with him and his wife, Rook. A year later the two published “A Logical Calculus of the Ideas Immanent in Nervous Activity”, cementing their place in history as two of the earliest academics to draw a connection between computers and the human brain, and providing a seminal work for the nascent field of cybernetics.
+
+  It was this work that would later allow a contemporary of theirs, Stephen C. Kleene, to introduce the concept of a regular language using a notation he called regular sets. Kleene, a giant in his own right, is also known for another tool regularly used by programmers you may have heard of: recursion.
+
+
+  A regular language is, by definition, any language that can be defined by a rational, or regular, expression. In other words, a language that is finite. This includes pretty much every language you or I could think of, including some we know, but wouldn’t ourselves classify as a language (like the empty string language, represented as ∅, known to programmers as “”).
