@@ -19,3 +19,20 @@ categories: programming advice
 
 
   A regular language is, by definition, any language that can be defined by a rational, or regular, expression. In other words, a language that is finite. This includes pretty much every language you or I could think of, including some we know, but wouldn’t ourselves classify as a language (like the empty string language, represented as ∅, known to programmers as “”).
+
+
+(re)sources
+https://www.digitalocean.com/community/tutorials/an-introduction-to-regular-expressions
+https://en.wikipedia.org/wiki/Regular_expression
+https://www.oreilly.com/ideas/an-introduction-to-regular-expressions
+https://ruby-doc.org/core-2.2.0/Regexp.html
+https://regexone.com/
+other sources
+https://blog.staffannoteberg.com/2013/01/30/regular-expressions-a-brief-history/
+https://en.wikipedia.org/wiki/Stephen_Cole_Kleene
+https://en.wikipedia.org/wiki/Warren_Sturgis_McCulloch
+https://en.wikipedia.org/wiki/Walter_Pitts
+https://en.wikipedia.org/wiki/Regular_language
+https://en.wikipedia.org/wiki/Empty_string
+further reading:
+https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf
