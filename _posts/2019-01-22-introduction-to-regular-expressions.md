@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Introduction to Regular Expressions"
+title:  "Introduction to Regular Expressions, Part 1: History"
 date:   2019-01-22 18:14:08 -0500
 categories: programming advice
 ---
-  As a budding new software engineer, you may have heard the term ‘regular expressions’, or regexps (read ‘rej-exps’) thrown around. If you’re like me, then the term merely registered as something technical and advanced-sounding—maybe even powerful, depending on the context it was heard in—and left it to the seeming lottery of new synaptic connections we call memory. Well, let this opening serve as a roll call to bring what regexp neurons you may already have to attention as we attempt to graft in some nuance to your working definition.
+  As a budding new software engineer, you may have heard the term “regular expressions”, also called “regexps” or “regex” thrown around (read “rej-exps”, “rej-ex” respectively). If you’re like me, then the term merely registered as something technical and advanced-sounding—maybe even powerful, depending on the context it was heard in—and left it to the seeming lottery of new synaptic connections we call memory. Well, let this opening serve as a roll call to bring what regex neurons you may have to bear on the subject as we attempt to graft in some nuance to your working definition.
 
   First, some background:
 
@@ -12,7 +12,7 @@ categories: programming advice
 
   In 1941, a fateful meeting occurred at the University of Illinois at Chicago. Warren Sturgis McCulloch moved from his position in the Laboratory of Neurophysiology at Yale to UIC’s Psychology Department. Through colleagues, McCulloch met a sensational prodigy named Walter Pitts, who, at only 18 years old, had already worked with pioneers in logic and mathematics—including the founder of mathematical biophysics, Nicholas Rashevsky.
 
-  Six years earlier, Pitts had been invited by none other than philosopher and mathematician Bertand Russell to study with him at Cambridge University after Russell had received a letter from Pitts pointing out inconsistenies in the former’s Prinicpia Mathematica. Three years later, at 15, he visited the UIC campus to hear Russell lecture, and never went home.
+  Six years earlier, Pitts had been invited by none other than philosopher and mathematician Bertrand Russell to study with him at Cambridge University after Russell had received a letter from Pitts pointing out inconsistencies in the former’s Principia Mathematica. Three years later, at 15, he visited the UIC campus to hear Russell lecture, and never went home.
   McCulloch was inspired by Pitts, who had been homeless since arriving in Chicago, and invited the young genius to live with him and his wife, Rook. A year later the two published “A Logical Calculus of the Ideas Immanent in Nervous Activity”, cementing their place in history as two of the earliest academics to draw a connection between computers and the human brain, and providing a seminal work for the nascent field of cybernetics.
 
   It was this work that would later allow a contemporary of theirs, Stephen C. Kleene, to introduce the concept of a regular language using a notation he called regular sets. Kleene, a giant in his own right, is also known for another tool regularly used by programmers you may have heard of: recursion.
