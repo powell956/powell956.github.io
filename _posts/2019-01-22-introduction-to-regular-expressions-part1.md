@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Regular Expressions, Part 1: History"
 date:   2019-01-22 18:14:08 -0500
-categories: programming history 
+categories: programming history
 ---
 As a budding new software engineer, you may have heard the term “regular expressions” thrown around. (Or you might have heard them called “regexps” or “regex”—read “rej-exps”, “rej-ex” respectively). If you’re like me, then the term merely registered as something technical and advanced-sounding—maybe even powerful, depending on the context it was heard in—and left it to the seeming lottery of new synaptic connections we call memory. Well, let this opening serve as a roll call to bring what regex neurons you may have to bear on the subject as we attempt to graft in some nuance to your working definition.
 
@@ -27,7 +27,7 @@ A regular language is, by definition, any language that can be defined by a rati
 
 * [https://www.oreilly.com/ideas/an-introduction-to-regular-expressions](https://www.oreilly.com/ideas/an-introduction-to-regular-expressions)
 
-* [https://ruby-doc.org/core-2.2.0/Regexp.html])https://ruby-doc.org/core-2.2.0/Regexp.html)
+* [https://ruby-doc.org/core-2.2.0/Regexp.html](https://ruby-doc.org/core-2.2.0/Regexp.html)
 
 * [https://regexone.com/](https://regexone.com/)
 

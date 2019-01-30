@@ -77,11 +77,11 @@ To play around with some text and see it work for yourself, John Gruber provides
 At risk of succumbing to Dingus jokes, I'll conclude here, and just say that if you haven't yet, give Markdown a try!
 
 
-(re)sources
+#### (re)sources ####
 
 * [https://daringfireball.net/projects/markdown/dingus](https://daringfireball.net/projects/markdown/dingus)
 
-sources
+#### sources ####
 
 * [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)
 
