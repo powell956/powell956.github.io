@@ -16,7 +16,7 @@
 title: Proliferating Nodes
 email: dan.powell@flatironschool.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A directory for my publicly-shared thoughts that are longer than tweets.
+  A repository for my publicly-shared thoughts that are longer than tweets.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: powell956
